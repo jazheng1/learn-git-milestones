@@ -269,8 +269,8 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github.com](https://github.com/jazheng1/learn-git-milestones/commit/16816cdf33839a2c824b7c52a1b55eecd7cb998b)
 2c | Full path to your working directory | /c/Users/jason/dig250-game-development
 2d | Link to `commit #3 from CLI` | [commit #3 from Github.com](https://github.com/jazheng1/learn-git-milestones/commit/b135512bc0dde3865d2ea3857f77a5cd28adacc2)
-2e | 3rd Favorite emoji |
-2f | Link to `commit #4 from Atom` |
+2e | 3rd Favorite emoji | 🤷‍
+2f | Link to `commit #4 from Atom` | [commit #3 from Github.com](https://github.com/jazheng1/learn-git-milestones/commit/2553105d285f79b65bdb95b477d37dc9dad84fc8)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
