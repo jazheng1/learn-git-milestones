@@ -271,8 +271,8 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [commit #3 from Github.com](https://github.com/jazheng1/learn-git-milestones/commit/b135512bc0dde3865d2ea3857f77a5cd28adacc2)
 2e | 3rd Favorite emoji | 🤷‍
 2f | Link to `commit #4 from Atom` | [commit #3 from Github.com](https://github.com/jazheng1/learn-git-milestones/commit/2553105d285f79b65bdb95b477d37dc9dad84fc8)
-3a | Link to `my-awesome-project` github.com repo page | https://github.com/jazheng1/my-awesome-project
-4a | Link to `my-awesome-project` github.io "project site" |
+3a | Link to `my-awesome-project` github.com repo page | [repo](https://github.com/jazheng1/my-awesome-project)
+4a | Link to `my-awesome-project` github.io "project site" | [website](https://jazheng1.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
 
